@@ -8,11 +8,15 @@ Currently only contains a Cachbuster filter.
 
 A simple filter to rewrite CSS URLs to append cachebusting tags to them.
 
-For example:
+For example, using a filter like:
+
+    new CachebusterFilter('v=12345');
+    
+will turn
 
     body { background: url(foo.gif); }
 
-will become:
+into:
 
     body { background: url(foo.gif?v=12345); }
 
