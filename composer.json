@@ -1,0 +1,22 @@
+{
+    "name": "jwpage/assetic-extensions",
+    "description": "Additonal Filters for Assetic",
+    "keywords": ["assets", "cachebuster"],
+    "homepage": "https://github.com/jwpage/assetic-extensions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johnson Page",
+            "email": "jwpage@gmail.com",
+            "homepage": "http://johnsonpage.org/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "kriswallsmith/assetic": "1.*"
+    },
+    "autoload": {
+        "psr-0": { "AsseticExtension": "src/" }
+    }
+}
