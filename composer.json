@@ -1,8 +1,8 @@
 {
-    "name": "jwpage/assetic-extensions",
+    "name": "bluedogtraining/assetic-extensions",
     "description": "Additonal Filters for Assetic",
     "keywords": ["assets", "cachebuster"],
-    "homepage": "https://github.com/jwpage/assetic-extensions",
+    "homepage": "https://github.com/bluedogtraining/assetic-extensions",
     "type": "library",
     "license": "MIT",
     "authors": [
