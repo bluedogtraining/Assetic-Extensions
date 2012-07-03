@@ -1,4 +1,4 @@
-# Assetic Extensions [![Build Status](https://secure.travis-ci.org/bluedogfrontiers/Assetic-Extensions.png)](http://travis-ci.org/bluedogfrontiers/Assetic-Extensions)
+# Assetic Extensions [![Build Status](https://secure.travis-ci.org/bluedogtraining/Assetic-Extensions.png)](http://travis-ci.org/bluedogtraining/Assetic-Extensions)
 
 
 A repository for assorted extensions to the Assetic library.
